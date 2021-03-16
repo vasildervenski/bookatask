@@ -58,6 +58,10 @@ video#myVideo {
   max-height: 2.914rem;
 }
 
+.logo.col-2 {
+    z-index: 2;
+}
+
 .header-tabs {
   text-transform: uppercase;
   font-weight: 600;
